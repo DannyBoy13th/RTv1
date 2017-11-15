@@ -5,7 +5,7 @@ USAGE:
 
 1.) Download, unzip.
 
-2.) Make then launch an executable rtv1 through your console using aruments 1 - 5.
+2.) Make then launch the executable "rtv1" through your console using arguments 1 - 5.
 
 3.) Voila. You're all set.
 
